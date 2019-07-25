@@ -5,13 +5,14 @@ header {
 }
 
 aside {
-  background: #590008
+  background: #590008;
 }
 
 article {
- background: #F4E6E7 
+ background: #F4E6E7;
 }
 
 footer {
-  background: #211718 
+  background: #211718;
+  color: #ffffff;
 }
