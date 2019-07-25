@@ -1,4 +1,16 @@
 header {
   font-family: cursive;
-  background-color: red;
+  background: #211718;
+}
+
+aside {
+  background: #590008
+}
+
+article {
+ background: #F4E6E7 
+}
+
+footer {
+  background: #211718 
 }
